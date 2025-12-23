@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Check, Star, Lock, ShieldCheck, Clock, PlayCircle, Book, Users, Ruler, ChevronRight, ArrowRight, X, Palette } from 'lucide-react';
+import { Check, Star, Lock, ShieldCheck, Clock, Book, Users, Ruler, X, Palette } from 'lucide-react';
 import Button from './components/Button';
 import Section from './components/Section';
 import Accordion from './components/Accordion';
